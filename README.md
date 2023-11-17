@@ -1,5 +1,5 @@
 # mining_pdf
-código para coletar e estruturas informações dentro de um livro
+código para coletar e estruturar informações dentro de um livro para base de dados
 
 Passo 1: Instalar o Python
 
